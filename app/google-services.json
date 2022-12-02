@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300964483504",
+    "firebase_url": "https://vadcc-86981-default-rtdb.firebaseio.com",
+    "project_id": "vadcc-86981",
+    "storage_bucket": "vadcc-86981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300964483504:android:39ccab778b725ca1378675",
+        "android_client_info": {
+          "package_name": "com.example.appvadcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300964483504-tpqc3il43bou3dmfmn4b2puqcogncn4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoWPA3PWe1XeI28Qh8gStfRs_JaseSIMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300964483504-tpqc3il43bou3dmfmn4b2puqcogncn4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
